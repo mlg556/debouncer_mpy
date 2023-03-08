@@ -11,6 +11,10 @@ can do:
 
 ```
 git clone github.com/mlg556/debouncer_mpy
+
+cd debouncer_mpy
+
+mpremote connect COMX cp debouncer.py :
 ```
 
 # Usage
