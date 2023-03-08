@@ -19,7 +19,7 @@ mpremote connect COMX cp debouncer.py :
 
 # Usage
 
-```
+```python
 from debouncer import Debouncer
 from machine import Pin
 
